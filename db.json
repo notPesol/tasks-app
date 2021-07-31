@@ -1,16 +1,22 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "test 2",
-      "day": "Jan 7th at 5:10pm",
-      "reminder": true
+      "text": "Learn React",
+      "day": "1/8/2021 10:00AM",
+      "reminder": true,
+      "id": 1
     },
     {
-      "id": 3,
-      "text": "test 3",
-      "day": "Jan 1st at 9:10pm",
-      "reminder": true
+      "text": "Learn JavaScript",
+      "day": "2/8/2021 9:30AM",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn React",
+      "day": "3/8/2021 9:30AM",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
